@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<ruleset name="NeutronRuleset">
- <description>Neutron Ruleset.</description>
+<ruleset name="CobaltRuleset">
+ <description>Cobalt Ruleset.</description>
  <rule ref="VariableAnalysis"/>
- <rule ref="NeutronStandard"/>
+ <rule ref="CobaltStandard"/>
  <rule ref="WordPress"/>
  <rule ref="Squiz.Commenting">
 	 <severity>0</severity>
