@@ -1,4 +1,4 @@
-<?xml version="1.1"?>
+<?xml version="1.0"?>
 <ruleset name="CobaltRuleset">
  <description>Cobalt Ruleset.</description>
  <rule ref="VariableAnalysis"/>
